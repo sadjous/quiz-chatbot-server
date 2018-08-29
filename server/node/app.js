@@ -1,5 +1,6 @@
 require('es6-promise').polyfill()
 require('isomorphic-fetch')
+// require('dotenv').config();
 
 const bodyParser = require('body-parser'),
   crypto = require('crypto'),
@@ -18,6 +19,7 @@ const bodyParser = require('body-parser'),
   config = require('./config'),
   emitter = require('./emitter'),
   analytics = require('./analytics')
+console.log('--------------------', process.env.MESSENGER_APP_SECRET)
 
 let APP_SECRET,
   VALIDATION_TOKEN,
