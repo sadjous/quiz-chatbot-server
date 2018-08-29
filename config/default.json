@@ -1,7 +1,7 @@
 {
-    "appSecret": "846db8cc009e3572b32f0f2dae22167c",
-    "pageAccessToken": "EAADz9MihTvcBAICSZBM31QFcXcas8savBXrgbTDPI5DBVZCGHrb08K6RmjoiBRSIiPCM27WIHjINoko40bqvZA2ocjGiS88NXGoUUSiRWhcCOmaOHGM9NLQNNCbiZBHMgil8mYlZBQvgIZCUNrH47ZC6sx7KTtzucMDHQ5ZCNcSBcAZDZD",
+    "appSecret": "3643c974e3de53b3f61a59abd66d6a18",
+    "pageAccessToken": "EAAHVEXR9JykBAAuZCt4bGZBkj5xZBSJ9v3hcCZAD87dWTAFE9UC9COWZBhomuJLEwUdlqW2kDaVqZC5Oq6fhu1ZA0X6lAYo3M78tU23PC7rZBpVcN8110jQqlZBzvK2wVxf0dx8FklHgqZBVRBEbwn52y4vD1B4ChL5QyMr4XuekM6LAZDZD",
     "validationToken": "rafeeqbot",
-    "serverURL": "https://quiz-chatbot.herokuapp.com",
+    "serverURL": "https://rafeeq-bot.herokuapp.com/",
     "universalAnalytics" : "UA-102602039-1" 
 }
